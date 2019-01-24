@@ -2,4 +2,4 @@
 Awesome list of VCU/Richmond projects
 
 * [slackboard](https://gitlab.com/MicahParks/slackboard)
-* [StackInTheFlow]()
+* [StackInTheFlow](https://github.com/vcu-swim-lab/stack-intheflow)
