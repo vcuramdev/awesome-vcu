@@ -11,3 +11,5 @@ Awesome list of VCU/Richmond projects
 **Helpful Libraries**
 * [hist](https://github.com/JustinMMiller/CUtils)
 
+**Tutorials**
+* [Civic/AWS](https://github.com/tylerjohnhaden/ServerlessWithCivicIdentity)
