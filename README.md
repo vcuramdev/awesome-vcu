@@ -1,4 +1,4 @@
-# awesome-vcu
+# Awesome VCU
 Awesome list of VCU/Richmond projects
 
 **Managing blackboard**
