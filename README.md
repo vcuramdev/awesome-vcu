@@ -16,6 +16,7 @@ Awesome list of VCU/Richmond projects
 * [VMI Tools](https://gitlab.com/iahmed4/vmi-tools-for-cybersecurity-education)
 * [CockroachDB](https://docs.google.com/presentation/d/1jcO2CnWoVUrQI7pIWRYGY9cjJvkG4YHFRw3kKMknA8Y/edit#slide=id.g32c09b91ff_0_39)
 * [Cython](https://github.com/jonaylor89/Cython-RamDev)
+* [Publishing Projects](https://github.com/jonaylor89/MakingYourProjectsPublic)
 
 **Master the Mainframe**
 *(Talk to Dr. Dalhberg)*
