@@ -4,6 +4,9 @@ Awesome list of VCU/Richmond projects
 **Managing blackboard**
 * [slackboard](https://gitlab.com/MicahParks/slackboard)
 
+**Web Crawlers**
+* [Scholar Scraper](https://github.com/jonaylor89/ScholarScraper)
+
 **Improve workflow**
 * [StackInTheFlow](https://github.com/vcu-swim-lab/stack-intheflow)
 * [gitlocalstats](https://github.com/jonaylor89/gitlocalstats)
